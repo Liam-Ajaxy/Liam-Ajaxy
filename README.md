@@ -59,10 +59,10 @@
 ## Featured Repositories
 
 <p align="center">
-<a href="https://github.com/Liam-Ajaxy">
+<a href="https://github.com/Liam-Ajaxy/FrankPort.">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liam-Ajaxy&repo=FrankPort.&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="48%"/>
 </a>
-<a href="https://github.com/Liam-Ajaxy">
+<a href="https://github.com/Liam-Ajaxy/Fenix-Inferno">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liam-Ajaxy&repo=Fenix-Inferno&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="48%"/>
 </a>
 </p>
