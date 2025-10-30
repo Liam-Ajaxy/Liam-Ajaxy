@@ -265,17 +265,14 @@ class SoftwareArchitect {
 
 <!-- Contact Buttons -->
 <p align="center">
-  <a href="https://your-portfolio.com">
+  <a href="https://frankport.vercel.app">
     <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Work-00D9FF?style=for-the-badge&labelColor=000000"/>
   </a>
   <a href="https://gitlab.com/Liam-Ajax">
     <img src="https://img.shields.io/badge/🦊_GITLAB-Explore_Projects-FC6D26?style=for-the-badge&labelColor=000000"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nabasafrank74@gmail.com">
     <img src="https://img.shields.io/badge/📧_EMAIL-Get_In_Touch-EA4335?style=for-the-badge&labelColor=000000"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-Let's_Connect-0A66C2?style=for-the-badge&labelColor=000000"/>
   </a>
 </p>
 
