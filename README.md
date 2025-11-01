@@ -210,12 +210,12 @@ class SoftwareArchitect {
 
 <td width="50%" valign="top">
 
-<h3 align="center">🔥 Fenix Inferno</h3>
+<h3 align="center">🔥 FrankChat</h3>
 
 <div align="center">
 
-<a href="https://github.com/Liam-Ajaxy/Fenix-Inferno">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liam-Ajaxy&repo=Fenix-Inferno&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+<a href="https://github.com/Liam-Ajaxy/FrankChat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Liam-Ajaxy&repo=FrankChat&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
 </a>
 
 <p align="center">
