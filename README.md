@@ -149,10 +149,10 @@ class SoftwareArchitect {
 <br/>
 
 <!-- GitHub Stats with advanced styling -->
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Liam-Ajaxy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,1a1b27,2d1b69&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF&fire_color=ff6b00&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Liam-Ajaxy&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=ff6b00&currStreakLabel=ffffff&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Ajaxy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=12" />
