@@ -10,10 +10,9 @@
 
 <!-- Profile Badges -->
 <p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000"/></a>
+  <a href="https://frankport.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000"/></a>
   <a href="https://gitlab.com/Liam-Ajax"><img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=000000"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+  <a href="mailto:user74251224.us@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
 </p>
 
 <br/>
